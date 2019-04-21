@@ -1,6 +1,9 @@
 {
   "name": "talkbot",
   "version": "0.0.1",
+  "engines": {
+    "node": "8.11.0"
+  },
   "description": "Text to speech bot",
   "main": "bot.js",
   "author": "YOUR-NAME-HERE",
